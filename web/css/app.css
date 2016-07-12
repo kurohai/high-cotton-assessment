@@ -61,6 +61,29 @@ code
     padding: 5px;
 }
 
+#menu ul {
+    display: inline-block;
+    float: right;
+    margin-right: 0px;
+    margin-top: -7px;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul a {
+    color: #228B22;
+    font-weight: bold;
+    margin-left: 1em;
+    text-decoration: none;
+}
+
+#menu ul a:hover, #menu ul a.active {
+    text-decoration: underline;
+    /*color: #fefbbf;*/
+}
+
 #container
 {
     padding: 2em;
