@@ -50,6 +50,7 @@ code
     margin: 1em auto;
     max-width: 600px;
     width: 95%;
+    border: 1px solid black;
     box-shadow: 5px 5px 2px #888888;
 }
 
@@ -59,6 +60,7 @@ code
     margin: 0 auto;
     max-width: 600px;
     width: 95%;
+    border: 1px solid black;
     box-shadow: 5px 5px 2px #888888;
 }
 
