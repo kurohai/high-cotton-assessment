@@ -58,7 +58,7 @@ code
     margin: 1em auto;
     max-width: 800px;
     width: 95%;
-    padding: 1em;
+    padding: 5px;
 }
 
 #menu ul {
@@ -73,7 +73,6 @@ code
 #menu ul a {
     color: #228B22;
     font-weight: bold;
-    margin-left: 1em;
     text-decoration: none;
 }
 
