@@ -64,6 +64,7 @@ code
 #menu ul {
     /*display: inline-block;
     float: left;*/
+    margin: 0;
 }
 
 #menu ul li {
