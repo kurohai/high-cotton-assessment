@@ -58,12 +58,12 @@ code
     margin: 1em auto;
     max-width: 800px;
     width: 95%;
-    padding: 5px;
+    padding: 1em;
 }
 
 #menu ul {
     display: inline-block;
-    float: right;
+    float: left;
     margin-right: 0px;
     margin-top: -7px;
 }
