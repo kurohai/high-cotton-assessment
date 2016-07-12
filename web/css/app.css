@@ -62,8 +62,8 @@ code
 }
 
 #menu ul {
-    display: inline-block;
-    float: left;
+    /*display: inline-block;
+    float: left;*/
 }
 
 #menu ul li {
