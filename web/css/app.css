@@ -36,6 +36,11 @@ a:hover
     text-decoration: none;
 }
 
+ol
+{
+    font-size: .75em;
+}
+
 code
 {
     background: #F5F5F5;
