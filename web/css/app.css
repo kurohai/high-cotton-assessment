@@ -52,6 +52,15 @@ code
     width: 95%;
 }
 
+#menu
+{
+    background: #FFF;
+    margin: 1em auto;
+    max-width: 800px;
+    width: 95%;
+    padding: 5px;
+}
+
 #container
 {
     padding: 2em;
